@@ -1,4 +1,11 @@
-## Hi there 👋
+Codequiry is a leading platform for **code plagiarism** detection, empowering developers and educators to maintain code integrity. With advanced algorithms and support for over 50 programming languages, it ensures precise identification of similarities. Codequiry provides detailed reports and real-time analysis, helping users detect and prevent code duplication effectively. Trust Codequiry to safeguard originality in coding practices, offering a comprehensive solution for academic and professional environments.
+
+
+
+
+
+
+
 
 <!--
 **CodequiryUS/CodequiryUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
